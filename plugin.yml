@@ -1,0 +1,9 @@
+name: SignCommand
+main: de.suprexde.sign.main.Main
+version: "1.0.1"
+api: ["1.0.0"]
+author: SuprexDE
+
+commands:
+  sign:
+    description: Sign-Command
